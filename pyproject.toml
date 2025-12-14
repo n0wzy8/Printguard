@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "printguard"
+version = "0.2.0"
+description = "Safe print() that masks secrets like passwords, tokens, and API keys"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+  { name = "N0wzy8", email = "n0wzy8@gmail.com" }
+]
+keywords = ["security", "print", "logging", "secrets", "masking"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent"
+]
+
+[project.urls]
+Homepage = "https://github.com/yourname/printguard"
+Repository = "https://github.com/yourname/printguard"
+Issues = "https://github.com/yourname/printguard/issues"
