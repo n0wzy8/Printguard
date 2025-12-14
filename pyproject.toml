@@ -20,6 +20,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourname/printguard"
-Repository = "https://github.com/yourname/printguard"
-Issues = "https://github.com/yourname/printguard/issues"
+Homepage = "https://github.com/n0wzy8/Printguard"
+Repository = "https://github.com/n0wzy8/Printguard"
+Issues = "https://github.com/n0wzy8/Printguard/issues"
+
